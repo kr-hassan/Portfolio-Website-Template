@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45e60c6e-a0a9-4715-b0cb-5808ca35d357" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-me.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/about-me.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/proj_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/proj_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/proj_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/proj_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/proj_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/proj_3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -40,7 +35,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kazi/Desktop/Projects/Portfolio-Website-Template",
+    "last_opened_file_path": "C:/xampp/htdocs/Portfolio-Website-Template",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,8 +47,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.436" />
-        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.436" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
       </set>
     </attachedChunks>
   </component>
@@ -73,6 +68,7 @@
       <workItem from="1742878121654" duration="65000" />
       <workItem from="1744002040827" duration="59000" />
       <workItem from="1745123982473" duration="8436000" />
+      <workItem from="1745338670978" duration="1648000" />
     </task>
     <servers />
   </component>
