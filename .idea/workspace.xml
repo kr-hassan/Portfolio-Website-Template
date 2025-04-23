@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45e60c6e-a0a9-4715-b0cb-5808ca35d357" name="Changes" comment="">
+    <list default="true" id="45e60c6e-a0a9-4715-b0cb-5808ca35d357" name="Changes" comment="Modification on design">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-me.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/about-me.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/proj_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/proj_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/proj_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/proj_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/proj_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/proj_3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kr-hassan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kr-hassan/Portfolio-Website-Template.git&quot;,
+    &quot;accountId&quot;: &quot;bbd6462d-ae2c-4aae-95a9-971dead1106b&quot;
+  }
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -34,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kazi/Desktop/Projects/Portfolio-Website-Template",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kazi/Desktop/Projects/Portfolio-Website-Template&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,11 +79,26 @@
       <workItem from="1742359464847" duration="2000" />
       <workItem from="1742878121654" duration="65000" />
       <workItem from="1744002040827" duration="59000" />
-      <workItem from="1745123982473" duration="8436000" />
+      <workItem from="1745123982473" duration="9334000" />
+      <workItem from="1745407473447" duration="4143000" />
+      <workItem from="1745414337420" duration="1223000" />
     </task>
+    <task id="LOCAL-00001" summary="Modification on design">
+      <option name="closed" value="true" />
+      <created>1745156432890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745156432890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modification on design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modification on design" />
   </component>
 </project>
