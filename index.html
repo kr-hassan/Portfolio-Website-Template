@@ -722,6 +722,14 @@
                 stroke="#F96D00"/>
     </svg>
 </div>
+<script>
+    document.addEventListener('contextmenu', event => event.preventDefault());
+    document.onkeydown = function(e) {
+        if (e.ctrlKey && (e.key === 'u' || e.key === 'U')) return false;
+        if (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'i')) return false;
+        if (e.key === 'F12') return false;
+    };
+</script>
 
 
 <script src="js/jquery.min.js"></script>
